@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
+
     public void siamulibcilck (View view){
         Intent  siamulibIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://www.virtualsiamu.com/siamulib"));
         startActivity(siamulibIntent);
