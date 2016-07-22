@@ -16,8 +16,9 @@ public class MainActivity extends AppCompatActivity {
 
 
     public void siamulibcilck (View view){
-        Intent  siamulibIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://www.virtualsiamu.com/siamulib"));
+        Intent  siamulibIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://www.siamulibapp.virtualsiamu.com/"));
         startActivity(siamulibIntent);
+
     }
 
 }
