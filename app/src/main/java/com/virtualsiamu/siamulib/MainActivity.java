@@ -18,7 +18,10 @@ public class MainActivity extends AppCompatActivity {
     public void siamulibcilck (View view){
         Intent  siamulibIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://www.siamulibapp.virtualsiamu.com/"));
         startActivity(siamulibIntent);
-
+    }
+    public void recbookclick (View view){
+        Intent recbookclick = new Intent(Intent.ACTION_VIEW, Uri.parse("http://www.xxx.com"));
+        startActivity(recbookclick);
     }
 
 }
