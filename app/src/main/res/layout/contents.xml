@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:layout_marginTop="22dp"
+        android:text="ตุ๊กรักอ้อ_10"
+        android:textColor="#CCCCCC"
+        android:textSize="19sp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:layout_marginTop="22dp"
+        android:text="ตุ๊กรักอ้อ_12"
+        android:textColor="#CCCCCC"
+        android:textSize="19sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:layout_marginTop="22dp"
+        android:text="ตุ๊กรักอ้อ_13"
+        android:textColor="#CCCCCC"
+        android:textSize="19sp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:layout_marginTop="22dp"
+        android:text="ตุ๊กรักอ้อ_14"
+        android:textColor="#CCCCCC"
+        android:textSize="19sp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:layout_marginTop="22dp"
+        android:text="ตุ๊กรักอ้อ_15"
+        android:textColor="#CCCCCC"
+        android:textSize="19sp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:layout_marginTop="22dp"
+        android:text="ตุ๊กรักอ้อ_16"
+        android:textColor="#CCCCCC"
+        android:textSize="19sp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:layout_marginTop="22dp"
+        android:text="ตุ๊กรักอ้อ_17"
+        android:textColor="#CCCCCC"
+        android:textSize="19sp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:layout_marginTop="22dp"
+        android:text="ตุ๊กรักอ้อ_18"
+        android:textColor="#CCCCCC"
+        android:textSize="19sp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:layout_marginTop="22dp"
+        android:text="ตุ๊กรักอ้อ_19"
+        android:textColor="#CCCCCC"
+        android:textSize="19sp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:layout_marginTop="22dp"
+        android:text="ตุ๊กรักอ้อ_111"
+        android:textColor="#CCCCCC"
+        android:textSize="19sp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:layout_marginTop="22dp"
+        android:text="ตุ๊กรักอ้อ_1112"
+        android:textColor="#CCCCCC"
+        android:textSize="19sp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:layout_marginTop="22dp"
+        android:text="ตุ๊กรักอ้อ_113"
+        android:textColor="#CCCCCC"
+        android:textSize="19sp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:layout_marginTop="22dp"
+        android:text="ตุ๊กรักอ้อ_114"
+        android:textColor="#CCCCCC"
+        android:textSize="19sp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:layout_marginTop="22dp"
+        android:text="ตุ๊กรักอ้อ_115"
+        android:textColor="#CCCCCC"
+        android:textSize="19sp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:layout_marginTop="22dp"
+        android:text="ตุ๊กรักอ้อ_11666"
+        android:textColor="#CCCCCC"
+        android:textSize="19sp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:layout_marginTop="22dp"
+        android:text="ตุ๊กรักอ้อ_1177777"
+        android:textColor="#CCCCCC"
+        android:textSize="19sp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:layout_marginTop="22dp"
+        android:text="ตุ๊กรักอ้อ_118888"
+        android:textColor="#CCCCCC"
+        android:textSize="19sp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:layout_marginTop="22dp"
+        android:text="18888"
+        android:textColor="#CCCCCC"
+        android:textSize="19sp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:layout_marginTop="22dp"
+        android:text="ตุ๊กรักอ้อ_119999"
+        android:textColor="#CCCCCC"
+        android:textSize="19sp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:layout_marginTop="22dp"
+        android:text="ตุ๊กรักอ้อ_1222222"
+        android:textColor="#CCCCCC"
+        android:textSize="19sp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:layout_marginTop="22dp"
+        android:text="ตุ๊กรักอ้อ_133333"
+        android:textColor="#CCCCCC"
+        android:textSize="19sp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:layout_marginTop="22dp"
+        android:text="ตุ๊กรักอ้อ_144444"
+        android:textColor="#CCCCCC"
+        android:textSize="19sp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:layout_marginTop="22dp"
+        android:text="ตุ๊กรักอ้อ_155555"
+        android:textColor="#CCCCCC"
+        android:textSize="19sp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:layout_marginTop="22dp"
+        android:text="66666end"
+        android:textColor="#CCCCCC"
+        android:textSize="19sp"/>
+
+
+
+
+</LinearLayout>

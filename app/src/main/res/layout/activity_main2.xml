@@ -13,13 +13,14 @@
         android:layout_alignParentTop="true"
         android:background="#Fc9"
         android:gravity="center">
-
-
-        <ImageView
-            android:layout_width="match_parent"
+        <TextView
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="@drawable/header"
-            android:layout_alignParentEnd="true" />
+            android:text="Fixed header"
+            android:layout_margin="5dp"
+            android:textColor="#000"
+            android:textSize="20sp"/>
+
     </RelativeLayout>
 
 
@@ -30,11 +31,13 @@
         android:layout_alignParentBottom="true"
         android:background="#Fc9"
         android:gravity="center">
-        <ImageView
-            android:layout_width="match_parent"
+        <TextView
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="@drawable/footer"
-            android:layout_alignParentEnd="true" />
+            android:text="Fixed Footer"
+            android:layout_margin="5dp"
+            android:textColor="#000"
+            android:textSize="20sp"/>
 
     </RelativeLayout>
 
@@ -46,7 +49,7 @@
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         android:layout_above="@+id/footer"
-        android:background="@drawable/banner_main"
+        android:background="#005"
         android:layout_below="@+id/header">
 
     </ScrollView>
