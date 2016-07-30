@@ -2,19 +2,18 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:background="@drawable/banner_main">
+    android:layout_height="wrap_content">
 
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:id="@+id/linear1"
         android:layout_alignParentEnd="false"
         android:layout_marginLeft="3dp"
         android:layout_marginRight="3dp"
-        android:layout_marginTop="15dp"
-        android:layout_marginBottom="10dp">
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="5dp">
 
         <ImageButton
             android:layout_width="wrap_content"
@@ -26,8 +25,8 @@
             android:focusableInTouchMode="false"
             android:layout_weight="1"
             android:layout_gravity="center_horizontal"
-            android:layout_marginRight="15dp"
-            android:layout_marginLeft="15dp" />
+            android:layout_marginBottom="5dp"
+            android:layout_margin="10dp" />
 
         <ImageButton
             android:layout_width="wrap_content"
@@ -37,8 +36,8 @@
             android:baselineAlignBottom="false"
             android:layout_weight="1"
             android:layout_gravity="center_horizontal"
-            android:layout_marginRight="15dp"
-            android:layout_marginLeft="15dp" />
+            android:layout_marginBottom="5dp"
+            android:layout_margin="10dp" />
 
         <ImageButton
             android:layout_width="wrap_content"
@@ -50,8 +49,8 @@
             android:background="@drawable/bookrec"
             android:layout_weight="1"
             android:layout_gravity="center_horizontal"
-            android:layout_marginRight="15dp"
-            android:layout_marginLeft="15dp" />
+            android:layout_marginBottom="5dp"
+            android:layout_margin="10dp" />
 
         <ImageButton
             android:layout_width="wrap_content"
@@ -60,20 +59,20 @@
             android:background="@drawable/login"
             android:layout_weight="1"
             android:layout_gravity="center_horizontal"
-            android:layout_marginRight="15dp"
-            android:layout_marginLeft="15dp" />
+            android:layout_marginBottom="5dp"
+            android:layout_margin="10dp" />
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:id="@+id/linear2"
         android:layout_below="@+id/linear1"
         android:layout_centerVertical="true"
-        android:layout_marginLeft="3dp"
-        android:layout_marginRight="3dp"
-        android:layout_marginTop="15dp"
-        android:layout_marginBottom="10dp">
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="3dp">
 
         <ImageButton
             android:layout_width="wrap_content"
@@ -82,8 +81,8 @@
             android:background="@drawable/cddvd"
             android:layout_weight="1"
             android:layout_gravity="center_horizontal"
-            android:layout_marginRight="15dp"
-            android:layout_marginLeft="15dp" />
+            android:layout_marginBottom="5dp"
+            android:layout_margin="10dp" />
 
         <ImageButton
             android:layout_width="wrap_content"
@@ -93,8 +92,8 @@
             android:baselineAlignBottom="false"
             android:layout_weight="1"
             android:layout_gravity="center_horizontal"
-            android:layout_marginRight="15dp"
-            android:layout_marginLeft="15dp" />
+            android:layout_marginBottom="5dp"
+            android:layout_margin="10dp" />
 
         <ImageButton
             android:layout_width="wrap_content"
@@ -106,8 +105,8 @@
             android:background="@drawable/periodical"
             android:layout_weight="1"
             android:layout_gravity="center_horizontal"
-            android:layout_marginRight="15dp"
-            android:layout_marginLeft="15dp" />
+            android:layout_marginBottom="3dp"
+            android:layout_margin="10dp" />
 
         <ImageButton
             android:layout_width="wrap_content"
@@ -116,20 +115,20 @@
             android:background="@drawable/review"
             android:layout_weight="1"
             android:layout_gravity="center_horizontal"
-            android:layout_marginRight="15dp"
-            android:layout_marginLeft="15dp" />
+            android:layout_marginBottom="5dp"
+            android:layout_margin="10dp" />
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:layout_alignParentEnd="false"
         android:id="@+id/linear3"
         android:layout_below="@+id/linear2"
         android:layout_marginLeft="3dp"
         android:layout_marginRight="3dp"
-        android:layout_marginTop="15dp"
-        android:layout_marginBottom="10dp">
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="5dp">
 
         <ImageButton
             android:layout_width="wrap_content"
@@ -138,8 +137,8 @@
             android:background="@drawable/activity"
             android:layout_weight="1"
             android:layout_gravity="center_horizontal"
-            android:layout_marginRight="15dp"
-            android:layout_marginLeft="15dp" />
+            android:layout_marginBottom="5dp"
+            android:layout_margin="10dp" />
 
         <ImageButton
             android:layout_width="wrap_content"
@@ -149,8 +148,8 @@
             android:baselineAlignBottom="false"
             android:layout_weight="1"
             android:layout_gravity="center_horizontal"
-            android:layout_marginRight="15dp"
-            android:layout_marginLeft="15dp" />
+            android:layout_marginBottom="5dp"
+            android:layout_margin="10dp" />
 
         <ImageButton
             android:layout_width="wrap_content"
@@ -162,8 +161,8 @@
             android:background="@drawable/news"
             android:layout_weight="1"
             android:layout_gravity="center_horizontal"
-            android:layout_marginRight="15dp"
-            android:layout_marginLeft="15dp" />
+            android:layout_marginBottom="5dp"
+            android:layout_margin="10dp" />
 
         <ImageButton
             android:layout_width="wrap_content"
@@ -172,20 +171,20 @@
             android:background="@drawable/siamu"
             android:layout_weight="1"
             android:layout_gravity="center_horizontal"
-            android:layout_marginRight="15dp"
-            android:layout_marginLeft="15dp" />
+            android:layout_marginBottom="5dp"
+            android:layout_margin="10dp" />
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:layout_marginLeft="3dp"
         android:layout_marginRight="3dp"
         android:id="@+id/linear4"
         android:layout_alignParentEnd="false"
         android:layout_below="@+id/linear3"
-        android:layout_marginTop="15dp"
-        android:layout_marginBottom="10dp">
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="5dp">
 
         <ImageButton
             android:layout_width="wrap_content"
@@ -194,8 +193,8 @@
             android:background="@drawable/manual"
             android:layout_weight="1"
             android:layout_gravity="center_horizontal"
-            android:layout_marginRight="15dp"
-            android:layout_marginLeft="15dp" />
+            android:layout_marginBottom="5dp"
+            android:layout_margin="10dp" />
 
         <ImageButton
             android:layout_width="wrap_content"
@@ -205,8 +204,8 @@
             android:baselineAlignBottom="false"
             android:layout_weight="1"
             android:layout_gravity="center_horizontal"
-            android:layout_marginRight="15dp"
-            android:layout_marginLeft="15dp" />
+            android:layout_marginBottom="5dp"
+            android:layout_margin="10dp" />
 
         <ImageButton
             android:layout_width="wrap_content"
@@ -218,8 +217,8 @@
             android:background="@drawable/www"
             android:layout_weight="1"
             android:layout_gravity="center_horizontal"
-            android:layout_marginRight="15dp"
-            android:layout_marginLeft="15dp" />
+            android:layout_marginBottom="5dp"
+            android:layout_margin="10dp" />
 
         <ImageButton
             android:layout_width="wrap_content"
@@ -228,8 +227,8 @@
             android:background="@drawable/contact"
             android:layout_weight="1"
             android:layout_gravity="center_horizontal"
-            android:layout_marginRight="15dp"
-            android:layout_marginLeft="15dp" />
+            android:layout_marginBottom="5dp"
+            android:layout_margin="10dp" />
     </LinearLayout>
 
 
